@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="300"
+   viewBox="0 0 211.66667 79.374998"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="camember_thematiques_v5.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="109.53844"
+     inkscape:cy="287.75777"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1-3"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-217.62501)">
+    <g
+       transform="matrix(0.74158396,0,0,0.74158396,-17.068462,80.83973)"
+       id="layer1-3"
+       inkscape:label="Layer 1">
+      <path
+         inkscape:connector-curvature="0"
+         id="path862"
+         d="m 155.1262,211.22152 a 22.678571,23.212516 0 0 0 -0.19375,-0.11296 l -11.09752,19.67401 11.09008,19.66045 a 22.678571,23.212516 0 0 0 10.6185,-18.06527 l 5e-4,-0.009 A 22.678571,23.212516 0 0 0 155.1262,211.22158 Z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25292587;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path860"
+         d="m 153.55484,210.30424 a 22.678571,23.212516 0 0 0 -9.08613,-2.67839 22.678571,23.212516 0 0 0 -24.1755,21.56905 22.678571,23.212516 0 0 0 -0.0251,0.77607 l 22.19339,-5e-5 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25292587;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path815"
+         d="M 142.46142,231.59429 H 120.2788 a 22.678571,23.212516 0 0 0 21.08474,22.34774 22.678571,23.212516 0 0 0 12.19517,-2.67417 z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.25292587;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path864"
+         d="m 160.15472,215.69658 3.99527,-6.25236 2.00216,-0.0198 47.67355,-0.16181"
+         style="fill:none;stroke:#000000;stroke-width:0.25292587;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text868"
+         y="198.63057"
+         x="216.4243"
+         style="font-style:normal;font-weight:normal;font-size:4.28287792px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13383994;stroke-opacity:1"
+         xml:space="preserve"
+         transform="scale(0.98843188,1.0117035)"><tspan
+           style="font-weight:bold;font-size:4.28287792px;text-align:end;text-anchor:end;stroke:none;stroke-width:0.13383994;stroke-opacity:1"
+           y="198.63057"
+           x="216.4243"
+           id="tspan866"
+           sodipodi:role="line">thématiques</tspan><tspan
+           id="tspan870"
+           style="font-weight:bold;font-size:4.28287792px;text-align:end;text-anchor:end;stroke:none;stroke-width:0.13383994;stroke-opacity:1"
+           y="203.98416"
+           x="216.4243"
+           sodipodi:role="line">spéciales</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.25292587;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 131.13489,210.77247 -3.99527,-6.25236 -2.00217,-0.02 -38.051844,-0.0251"
+         id="path872"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.28287792px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13383994"
+         x="87.814728"
+         y="194.98022"
+         id="text878"
+         transform="scale(0.98843188,1.0117035)"><tspan
+           sodipodi:role="line"
+           id="tspan874"
+           x="87.814728"
+           y="194.98022"
+           style="font-weight:bold;font-size:4.28287792px;text-align:start;text-anchor:start;stroke-width:0.13383994">thématiques</tspan><tspan
+           sodipodi:role="line"
+           x="87.814728"
+           y="200.33382"
+           style="font-weight:bold;font-size:4.28287792px;text-align:start;text-anchor:start;stroke-width:0.13383994"
+           id="tspan876">normales</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.25292587;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 142.36021,253.93201 -4.79708,13.63853 -2.00217,0.02 -43.532504,0.0251"
+         id="path880"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <text
+         id="text886"
+         y="256.72644"
+         x="92.911018"
+         style="font-style:normal;font-weight:normal;font-size:4.28287792px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13383994"
+         xml:space="preserve"
+         transform="scale(0.98843188,1.0117035)"><tspan
+           id="tspan884"
+           style="font-weight:bold;font-size:4.28287792px;text-align:start;text-anchor:start;stroke-width:0.13383994"
+           y="256.72644"
+           x="92.911018"
+           sodipodi:role="line">autonomie</tspan><tspan
+           id="tspan890"
+           style="font-weight:bold;font-size:4.28287792px;text-align:start;text-anchor:start;stroke-width:0.13383994"
+           y="262.08002"
+           x="92.911018"
+           sodipodi:role="line">des ministères</tspan></text>
+      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:21.33333397px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot963"
+         xml:space="preserve"><flowRegion
+           style="font-size:21.33333397px"
+           id="flowRegion965"><rect
+             style="font-size:21.33333397px"
+             y="161.34529"
+             x="40.406101"
+             height="323.24881"
+             width="294.96454"
+             id="rect967" /></flowRegion><flowPara
+           id="flowPara969" /></flowRoot>      <text
+         id="text973"
+         y="208.04449"
+         x="87.992989"
+         style="font-style:normal;font-weight:normal;font-size:3.21215868px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13383994"
+         xml:space="preserve"
+         transform="scale(0.98843188,1.0117035)"><tspan
+           id="tspan975"
+           style="font-size:3.21215868px;stroke-width:0.13383994"
+           y="208.04449"
+           x="87.992989"
+           sodipodi:role="line">éducation</tspan><tspan
+           id="tspan979"
+           style="font-size:3.21215868px;stroke-width:0.13383994"
+           y="212.05969"
+           x="87.992989"
+           sodipodi:role="line">santé</tspan><tspan
+           id="tspan981"
+           style="font-size:3.21215868px;stroke-width:0.13383994"
+           y="216.07489"
+           x="87.992989"
+           sodipodi:role="line">retraites</tspan><tspan
+           id="tspan983"
+           style="font-size:3.21215868px;stroke-width:0.13383994"
+           y="220.09009"
+           x="87.992989"
+           sodipodi:role="line">système fiscal</tspan><tspan
+           id="tspan985"
+           style="font-size:3.21215868px;stroke-width:0.13383994"
+           y="224.10529"
+           x="87.992989"
+           sodipodi:role="line">aides sociales</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.21215868px;line-height:1.25;font-family:sans-serif;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13383994"
+         x="215.97508"
+         y="212.71764"
+         id="text1011"
+         transform="scale(0.98843188,1.0117035)"><tspan
+           sodipodi:role="line"
+           x="215.97508"
+           y="212.71764"
+           style="font-size:3.21215868px;text-align:end;text-anchor:end;stroke-width:0.13383994"
+           id="tspan1009">directives européennes</tspan><tspan
+           id="tspan1027"
+           sodipodi:role="line"
+           x="215.97508"
+           y="216.73283"
+           style="font-size:3.21215868px;text-align:end;text-anchor:end;stroke-width:0.13383994">budget de l'État</tspan><tspan
+           id="tspan1029"
+           sodipodi:role="line"
+           x="215.97508"
+           y="220.74803"
+           style="font-size:3.21215868px;text-align:end;text-anchor:end;stroke-width:0.13383994">catastrophe naturelle</tspan><tspan
+           id="tspan1031"
+           sodipodi:role="line"
+           x="215.97508"
+           y="224.76323"
+           style="font-size:3.21215868px;text-align:end;text-anchor:end;stroke-width:0.13383994">traités internationaux</tspan><tspan
+           id="tspan1033"
+           sodipodi:role="line"
+           x="215.97508"
+           y="228.77843"
+           style="font-size:3.21215868px;text-align:end;text-anchor:end;stroke-width:0.13383994">conflits armés</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.21215868px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13383994"
+         x="93.051338"
+         y="270.21954"
+         id="text1059"
+         transform="scale(0.98843188,1.0117035)"><tspan
+           sodipodi:role="line"
+           x="93.051338"
+           y="270.21954"
+           style="font-size:3.21215868px;stroke-width:0.13383994"
+           id="tspan1057">maintenance des services de l'État</tspan><tspan
+           id="tspan845"
+           sodipodi:role="line"
+           x="93.051338"
+           y="274.23474"
+           style="font-size:3.21215868px;stroke-width:0.13383994">soutien financier de projets de taille modérée</tspan><tspan
+           id="tspan847"
+           sodipodi:role="line"
+           x="93.051338"
+           y="278.24994"
+           style="font-size:3.21215868px;stroke-width:0.13383994">gestion d'un pic de pollution</tspan></text>
+    </g>
+  </g>
+</svg>
